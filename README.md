@@ -2,7 +2,7 @@
 
 <br>
 
-## Navbar + Header 🔵⚪
+## Navbar + Header ⚪
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-Conteúdo 🔵⚪
+Conteúdo 🔵
 
 <br>
 
